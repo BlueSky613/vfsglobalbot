@@ -29,8 +29,8 @@ def get_otp_from_email(email_user, email_pass):
     mail.logout()
     return otp
 
-USERNAME = "shunjishima624@gmail.com"
-PASSWORD = "Pwd123!@#"
+USERNAME = ""
+PASSWORD = ""
 
 driver = uc.Chrome()
 
